@@ -1,0 +1,5 @@
+{
+  "tests/test_tui_bugfixes.py::test_subagent_done_marks_pruned_session": true,
+  "tests/test_tui_bugs.py::test_subagent_done_prunes_widgets_and_engines": true,
+  "tests/test_tui_bugfixes.py::test_permission_ask_unblocks_on_exit": true
+}
