@@ -1,0 +1,3 @@
+{
+  "test_tui_bugs.py::test_up_down_history_restores_draft": true
+}
